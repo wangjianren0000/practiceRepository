@@ -183,5 +183,8 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="E:/spring-framework-3.1.1.RELEASE/spring-core-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/spring-framework-3.1.1.RELEASE/sprint-utils/spring-beans-3.0.2.RELEASE.jar/spring-beans-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/spring-framework-3.1.1.RELEASE/sprint-utils/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7.jar"/>
 	<classpathentry kind="output" path="WebContent/classes"/>
 </classpath>
