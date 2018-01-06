@@ -6,7 +6,6 @@ public class Student {
 
 	public static void main(String[] args) {
 		Date date = new Date();
-		
 	
 	}
 }
